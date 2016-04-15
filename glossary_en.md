@@ -14,6 +14,7 @@
     - [Branding](#branding)
 * [C](#c)
     - [Card sorting](#card-sorting)
+    - [Charette](#charette)
     - [Collaborative design](#collaborative-design)
     - [Comparative analysis](#comparitive-analysis)
     - [Competitor analysis](#competitor-analysis)
